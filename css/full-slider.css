@@ -4,6 +4,28 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
  */
 
+.carousel-item-sleepless {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  background-image: url('imgs/Sleeplessvr.png')
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.carousel-item-parkrunner {
+  height: 100vh;
+  min-height: 300px;
+  background-image: url('imgs/Parkrunnervr.png');
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .carousel-item {
   height: 100vh;
   min-height: 300px;
@@ -13,3 +35,5 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+
