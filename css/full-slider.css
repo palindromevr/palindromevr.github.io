@@ -24,7 +24,7 @@
   background-size: cover;
 }
 
-.carousel-item {
+.carousel-item-leftandright {
   height: 100vh;
   min-height: 300px;
   background: no-repeat center center scroll;
